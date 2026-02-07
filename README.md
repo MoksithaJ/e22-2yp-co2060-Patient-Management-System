@@ -90,7 +90,7 @@ This system improves data accuracy, reduces manual work, and supports better dec
 
 ---
 
-### 2. Database Design (High-Level)
+### 2. Database Design 
 
 #### Key Entities
 - Patient
