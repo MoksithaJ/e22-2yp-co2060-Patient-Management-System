@@ -21,7 +21,6 @@
             "eNumber": "E/22/004"
         }
     ],
-    "Description":"Healthcare facilities still face problems such as paper-based records, scattered patient information, appointment conflicts, and limited access to medical history. These issues can lead to delays in treatment, data loss, and poor patient experience.The Patient Management System (PMS) is a web-based application designed to manage patient records, medical history, appointments, and basic clinical workflows in a centralized system. The goal of this project is to provide a simple, secure, and easy-to-use platform for healthcare staff to access and update patient information efficiently.This system improves data accuracy, reduces manual work, and supports better decision-making by healthcare providers. In the long term, it can improve patient care quality and operational efficiency.",
     "tags": ["Web", "Software Systems", "CO2060"],
     "image":"cover_page.jpg",
     "thumbnail":"thumbnail.jpg"
